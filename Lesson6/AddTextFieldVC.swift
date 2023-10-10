@@ -74,6 +74,8 @@ class AddTextFieldVC: UIViewController {
         return secondLabel
     }()
     
+    
+    
     private lazy var thirdLabelText:UILabel = {
         let thirdLabel = UILabel()
         thirdLabel.text = "yaşınızı giriniz"
